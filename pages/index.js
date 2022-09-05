@@ -15,8 +15,8 @@ export default function Home({cars}) {
       </Head>
       <main>
         <Header />
-        {/* <Main i_cars={cars} /> */}
-        <Test />
+        <Main i_cars={cars} />
+        {/*   <Test /> */}
         <Footer />
       </main>
     </div>
