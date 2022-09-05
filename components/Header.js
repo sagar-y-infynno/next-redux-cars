@@ -12,10 +12,10 @@ export default function Header() {
         <Link href="/" ><a  className="header-link">HOW IT WORKS</a></Link>
         <Link href="/" ><a className="header-link">WHY US</a></Link>
         <Link href="/" ><a className="header-link">CONTACT US</a></Link>
-        <FacebookShareButton quote='this is autodigg' hashtag='#autodigg' url="http://localhost:3000/" >
+        <FacebookShareButton quote='this is autodigg' hashtag='#autodigg' url="https://next-redux-cars.vercel.app/" >
           <FacebookIcon size={32} round={true} />
         </FacebookShareButton>
-        <WhatsappShareButton url="http://localhost:3000/" >
+        <WhatsappShareButton url="https://next-redux-cars.vercel.app/" >
           <WhatsappIcon size={32} round={true} />
         </WhatsappShareButton>
         <InstapaperShareButton description='this is autodigg a new and used car buying site' title=""  url="http://localhost:3000/" >
