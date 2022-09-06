@@ -12,16 +12,16 @@ export default function Home({cars}) {
         <title>Create Next App</title>
         
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta property="title" content="My cars project2" key="title" />    
-        <meta property="og:title" content="My cars project2" key="title" />    
+        <meta property="title" content="My cars project3" key="title" />    
+        <meta property="og:title" content="My cars project og" key="title" />    
         <meta property="og:site_name" content="cars app2" />
-        <meta name="description" content="training project2..." />
-        <meta name="og:description" content="training project2..." />
+        <meta name="description" content="training project3..." />
+        <meta name="og:description" content="training project3... og" />
         <meta property="og:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />  
         <meta name="twitter:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />   
         
-        <link rel="icon" type="image/png" href="/favicon.ico" />
-        <link rel="apple-touch-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" href="https://next-redux-cars.vercel.app/favicon.ico" />
+        <link rel="apple-touch-icon" href="https://next-redux-cars.vercel.app/favicon.ico" />
         <link rel="canonical" href="https://next-redux-cars.vercel.app/" />
     
         {/* 
