@@ -10,11 +10,24 @@ export default function Home({cars}) {
     <div className="container">
       <Head>
         <title>Create Next App</title>
+        
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta property="og:title" content="My cars project" key="title" />    
-    {/*  */}
+        <meta property="title" content="My cars project2" key="title" />    
+        <meta property="og:title" content="My cars project2" key="title" />    
+        <meta property="og:site_name" content="cars app2" />
+        <meta name="description" content="training project2..." />
+        <meta name="og:description" content="training project2..." />
+        <meta property="og:image" content="/images/Create-Next-App.png" />  
+        <meta name="twitter:image" content="/images/Create-Next-App.png" />   
+        
+        <link rel="icon" type="image/png" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/favicon.ico" />
+        <link rel="canonical" href="https://next-redux-cars.vercel.app/" />
+    
+        {/* 
         <meta name="description" content="training project..." />
         <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="cars app" />
         <meta name="og:title" property="og:title" content="My cars project" />
         <meta name="og:description" property="og:description" content="training project..." />
         <meta property="og:site_name" content="cars app" />
@@ -26,11 +39,10 @@ export default function Home({cars}) {
         <meta name="twitter:creator" content="sagar yadav" />
         <link rel="icon" type="image/png" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/favicon.ico" />
-        {/* <link rel="stylesheet" href="" /> */}
         <meta property="og:image" content="/images/Create-Next-App.png" />  
         <meta name="twitter:image" content="/images/Create-Next-App.png" />   
         <link rel="canonical" href="https://next-redux-cars.vercel.app/" />
-        {/*  */}
+        */}
     
         <link rel="icon" href="/favicon_io.ico" />
       </Head>
