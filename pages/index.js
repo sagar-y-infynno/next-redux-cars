@@ -17,8 +17,8 @@ export default function Home({cars}) {
         <meta property="og:site_name" content="cars app2" />
         <meta name="description" content="training project2..." />
         <meta name="og:description" content="training project2..." />
-        <meta property="og:image" content="/images/Create-Next-App.png" />  
-        <meta name="twitter:image" content="/images/Create-Next-App.png" />   
+        <meta property="og:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />  
+        <meta name="twitter:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />   
         
         <link rel="icon" type="image/png" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/favicon.ico" />
