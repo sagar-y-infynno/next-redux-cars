@@ -15,11 +15,11 @@ export default function Home({cars}) {
         <meta name="description" content="training next redux project..." />
 
         {/*  */}
-        <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="cars app" />
-        <meta property="og:url" content="https://next-redux-cars.vercel.app/" />  
+        <meta property="og:type" name="og:type" content="website" />
+        <meta property="og:site_name" name="og:site_name" content="cars app" />
+        <meta property="og:url" name="og:url" content="https://next-redux-cars.vercel.app/" />  
         <meta name="og:title" property="og:title" content="My cars project" />
-        <meta name="og:description" property="og:description" content="training project..." />
+        <meta name="og:description" property="og:description" content="next redux project..." />
 
         {/* <meta name="twitter:card" content="summary" /> 
         <meta name="twitter:title" content="cars app" />
@@ -29,7 +29,7 @@ export default function Home({cars}) {
         {/* <meta name="twitter:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />    */}
         
         <link rel="apple-touch-icon" href="/favicon.ico" />
-        <meta property="og:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />  
+        <meta name="og:image" property="og:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />  
         <link rel="canonical" href="https://next-redux-cars.vercel.app/" />
         {/* <link rel="stylesheet" href="" /> */}
         {/*  */}
