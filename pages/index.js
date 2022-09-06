@@ -9,42 +9,31 @@ export default function Home({cars}) {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
-        
+        <title>Next Redux Cars App</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta property="title" content="My cars project3" key="title" />    
-        <meta property="og:title" content="My cars project og" key="title" />    
-        <meta property="og:site_name" content="cars app2" />
-        <meta name="description" content="training project3..." />
-        <meta name="og:description" content="training project3... og" />
-        <meta property="og:image" content="https://content.homenetiol.com/2002363/2164272/0x0/e5815e704fad4bf59214d2eb08c4a2be.jpg" />  
-        <meta name="twitter:image" content="https://content.homenetiol.com/2002363/2164272/0x0/e5815e704fad4bf59214d2eb08c4a2be.jpg" />   
-        <meta name="image" content="https://content.homenetiol.com/2002363/2164272/0x0/e5815e704fad4bf59214d2eb08c4a2be.jpg" />   
-        
-        <link rel="icon" type="image/png" href="https://next-redux-cars.vercel.app/favicon.ico" />
-        <link rel="apple-touch-icon" href="https://next-redux-cars.vercel.app/favicon.ico" />
-        <link rel="canonical" href="https://next-redux-cars.vercel.app/" />
-    
-        {/* 
-        <meta name="description" content="training project..." />
+        {/* <meta property="og:title" content="My cars project" key="title" /> */}
+        <meta name="description" content="training next redux project..." />
+
+        {/*  */}
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="cars app" />
+        <meta property="og:url" content="https://next-redux-cars.vercel.app/" />  
         <meta name="og:title" property="og:title" content="My cars project" />
         <meta name="og:description" property="og:description" content="training project..." />
-        <meta property="og:site_name" content="cars app" />
-        <meta property="og:url" content="https://next-redux-cars.vercel.app/" />  
-        <meta name="twitter:card" content="summary" /> 
+
+        {/* <meta name="twitter:card" content="summary" /> 
         <meta name="twitter:title" content="cars app" />
         <meta name="twitter:description" content="training project..." />
         <meta name="twitter:site" content="" />
-        <meta name="twitter:creator" content="sagar yadav" />
-        <link rel="icon" type="image/png" href="/favicon.ico" />
+        <meta name="twitter:creator" content="sagar yadav" /> */}
+        {/* <meta name="twitter:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />    */}
+        
         <link rel="apple-touch-icon" href="/favicon.ico" />
-        <meta property="og:image" content="/images/Create-Next-App.png" />  
-        <meta name="twitter:image" content="/images/Create-Next-App.png" />   
+        <meta property="og:image" content="https://next-redux-cars.vercel.app/images/Create-Next-App.png" />  
         <link rel="canonical" href="https://next-redux-cars.vercel.app/" />
-        */}
-    
+        {/* <link rel="stylesheet" href="" /> */}
+        {/*  */}
+
         <link rel="icon" href="/favicon_io.ico" />
       </Head>
       <main>
