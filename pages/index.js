@@ -19,6 +19,7 @@ export default function Home({cars}) {
         <meta name="og:description" content="training project3... og" />
         <meta property="og:image" content="https://content.homenetiol.com/2002363/2164272/0x0/e5815e704fad4bf59214d2eb08c4a2be.jpg" />  
         <meta name="twitter:image" content="https://content.homenetiol.com/2002363/2164272/0x0/e5815e704fad4bf59214d2eb08c4a2be.jpg" />   
+        <meta name="image" content="https://content.homenetiol.com/2002363/2164272/0x0/e5815e704fad4bf59214d2eb08c4a2be.jpg" />   
         
         <link rel="icon" type="image/png" href="https://next-redux-cars.vercel.app/favicon.ico" />
         <link rel="apple-touch-icon" href="https://next-redux-cars.vercel.app/favicon.ico" />
